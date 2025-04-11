@@ -1,6 +1,6 @@
 //
-// NOM PRENOM :
-// IDUL :
+// NOM PRENOM : Charles Lavoie
+// IDUL : chlav203@ulaval.ca
 //
 
 #ifndef INODE_H
