@@ -6,3 +6,7 @@
 #include "FileSystem.h"
 
 FileSystem::FileSystem(BlockDevice &dev) : device(dev){}
+
+void FileSystem::FreeBlocks(const std::vector<size_t> &blocks){
+    
+}
