@@ -5,4 +5,4 @@
 
 #include "FileSystem.h"
 
-FileSystem::FileSystem():
+FileSystem::FileSystem(BlockDevice &dev) : device(dev){}
